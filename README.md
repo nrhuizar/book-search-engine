@@ -2,7 +2,7 @@
 
 ## Description
 
-This project is about updating a book search site using the MERN stack.  Another goal is to take the project from an API driven CRUD to GraphQL.
+This project is about updating a book search site using the MERN stack.  Another goal is to take the project from an API driven CRUD to GraphQL.  The end goal is to deploy to Heroku.
 
 ## Table of Contents
 * [Installation](#installation)
