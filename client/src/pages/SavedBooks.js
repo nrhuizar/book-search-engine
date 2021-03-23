@@ -4,7 +4,7 @@ import { Jumbotron, Container, CardColumns, Card, Button } from 'react-bootstrap
 
 import { GET_ME } from '../utils/queries';
 import { REMOVE_BOOK} from '../utils/mutations';
-import Auth from '../utils/Auth';
+import Auth from '../utils/Auth.js';
 import { removeBookId } from '../utils/localStorage';
 import { useQuery, useMutation } from '@apollo/react-hooks';
 
